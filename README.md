@@ -16,4 +16,4 @@ $ docker run -d -p 5000:5000 python-docker:latest
 
 **https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/**
 
-The application will be accessible at http:127.0.0.1:5000 
+The application will be accessible at http://localhost:5000/
